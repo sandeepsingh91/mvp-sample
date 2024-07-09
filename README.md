@@ -18,6 +18,7 @@ The **View** is responsible for presenting the user interface and handling user 
 
 The **Presenter** acts as the intermediary between the Model and View.  
 
- 
+## License
 
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
  
